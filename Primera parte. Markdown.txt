@@ -1,0 +1,42 @@
+# *Nassi-Shneiderman*
+
+###Ventajas:
+
+*  Su estilo de diagramación es simple, preciso, ordenado y estructurado.
+*  Es fácil de leer e interpretar.
+*  En comparación con los diagramas de flujo convencionales es mucho más acotado, por lo que permite un mayor ingreso de información de forma prolija.
+*  Es comparable a cualquier lenguaje de programación.
+
+###Desventajas:
+
+*  Es tedioso para el programador el uso de cuadros y diagramas para encuadrar la información.
+*  Para fines de desarrollo se hace difícil ver posibles errores cometidos, ya sea de orden, relación entre variables, estructuras, etc.
+*   Es sólo un primer avance en la creación de un programa, previo a la codificación.
+
+# *Pseudocódigo*
+
+###Ventajas:
+
+*  Su formato permite ser interpretado sin poseer conocimientos en programación.
+*  Posee una sintaxis sencilla.
+*  Está basado en una seguidilla de pasos lógicos.
+*  Es comparable a cualquier lenguaje de programación.
+
+###Desventajas:
+
+*  Al igual que Nassi-Shneiderman, es solo un primer avance en la creación de un programa.
+
+# *C++*
+
+###Ventajas:
+
+*  Si se trabaja de manera prolija y ordenada es altamente comprensible.
+*  Admite comentarios explicativos para un mejor entendimiento de cada proceso llevado a cabo en el desarrollo del programa.
+*  Es directo: se escribe, se compila y ya tenemos un programa, a diferencia de los diagramas y al pseudocódigo que sólo tienen carácter estratégico o ilustrativo.
+*  Puede generarse a prueba y error.
+*  Para quienes manejan el lenguaje se aligera el proceso.
+
+###Desventajas:
+
+*  Es un lenguaje específico y, como tal, debe aprenderse y practicarse.
+*  No está al alcance de cualquiera.
